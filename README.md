@@ -1,2 +1,2 @@
-# ProjetosJS
-Mini projetos em JavaScript
+# NoçõesBásicasJS
+Exemplos da estruturação de códigos JavaScript
