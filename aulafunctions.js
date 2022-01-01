@@ -1,9 +1,9 @@
 let corSite = "amarelo";
-function resetaCor(cor){
-    corSite = cor;
+function resetaCor(cor, tonalidade){
+    corSite = cor + tonalidade;
 
 };
 
 console.log(corSite);
-resetaCor("vermelho"); 
+resetaCor("azul", "escuro"); 
 console.log(corSite);
